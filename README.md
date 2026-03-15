@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sai Surya 👋
 
-<!--
-**saisurya-dev/saisurya-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer from India.
 
-Here are some ideas to get you started:
+## Tech Stack
+React | Node.js | PHP | MySQL | JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Full-stack developer building business web applications
+- Experience with billing, inventory and ecommerce systems
+- Interested in scalable backend systems
+
+## Projects
+- Gold Savings Scheme API
+- Jewellery Management System
+- Ecommerce Platform
+- Task Management App
+
+## Contact
+Email: saisurya.s.dev@gmail.com  
+LinkedIn: https://linkedin.com/in/saisuryas
