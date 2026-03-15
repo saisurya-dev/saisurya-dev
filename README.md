@@ -1,21 +1,48 @@
-# Hi, I'm Sai Surya 👋
+# Hi 👋 I'm Sai Surya Suram
 
-Full Stack Developer from India.
+💻 Full Stack Developer  
+📍 India  
 
-## Tech Stack
-React | Node.js | PHP | MySQL | JavaScript
+I build business web applications using modern technologies.
 
-## About Me
-- Full-stack developer building business web applications
-- Experience with billing, inventory and ecommerce systems
-- Interested in scalable backend systems
+---
 
-## Projects
-- Gold Savings Scheme API
-- Jewellery Management System
-- Ecommerce Platform
-- Task Management App
+## 🚀 Tech Stack
 
-## Contact
-Email: saisurya.s.dev@gmail.com  
-LinkedIn: https://linkedin.com/in/saisuryas
+Frontend  
+- React  
+- JavaScript  
+- HTML  
+- CSS  
+
+Backend  
+- Node.js  
+- Express  
+- PHP  
+
+Database  
+- MySQL  
+- MongoDB  
+
+---
+
+## 📌 Featured Projects
+
+🔹 Gold Savings Scheme API  
+Backend API used by an Android application for managing monthly gold savings.
+
+🔹 Jewellery Management System  
+Inventory tracking, billing and analytics for jewellery businesses.
+
+🔹 E-commerce Platform  
+Full stack application with authentication, cart and admin dashboard.
+
+🔹 Task Management App  
+Task management system using REST APIs.
+
+---
+
+## 📫 Contact Me
+
+📧 saisurya.s.dev@gmail.com  
+🔗 https://linkedin.com/in/saisuryas
